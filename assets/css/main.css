@@ -86,7 +86,7 @@
 }
 
 .container-11 {
-  display: inline-table;
+  display: inline-block;
   width: 230px;
   text-align: center;
 }
@@ -104,4 +104,89 @@
 #price {
   text-decoration: underline;
   margin-bottom: -7px;
+}
+
+.container-12 {
+  margin: auto;
+  width: 1200px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.container-13 {
+  display: inline-table;
+  width: 200px;
+  text-align: center;
+  margin: auto 10px;
+}
+
+.container-13 img{
+  margin-bottom: 10px;
+}
+
+.container-13 p {
+  color: #898989;
+  font-size: 13px;
+}
+
+.container-14 {
+  height: 140vh;
+}
+
+.container-15 {
+  width: 1000px;
+  text-align: center;
+}
+
+.container-16 {
+  display: inline-block;
+  width: 230px;
+  text-align: center;
+}
+
+.container-16 h5 {
+  color: #898989;
+}
+
+.container-16 p{
+  color: black;
+  padding-top: 5px;
+}
+
+.container-17 {
+  display: inline-block;
+  margin: auto 10px;
+}
+
+.container-18 {
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+}
+
+.container-18 p{
+  color: #898989;
+  margin-top: -12px;
+}
+
+.container-19 {
+  margin: 5% auto;
+  width: 600px;
+  text-align: center;
+}
+
+.fontcolor {
+  color: #898989;
+}
+
+.container-20 {
+  display: inline-table;
+  width: 800px;
+}
+
+.container-21 {
+  display: inline-table;
+  width: 360px;
+  text-align: center;
+  margin: auto 5%;
 }
